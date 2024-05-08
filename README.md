@@ -36,6 +36,6 @@ Additional Notes
 •	Review and handle any PHP warnings or errors that may arise during the initial setup or during typical application usage.
 •	Implement proper error handling and security measures, especially for production environments.
 *Note:*
-• This is the link to view the submission of the project:https://github.com/Glingo123/USSD-Project-Codes
+• This is the link to view the submission of the project:https://github.com/Jospinra/USSD-Project
 • So In the files submitted I have included all needed files to run the webbased project part, USSD Based part and the Incoming SMS Part.
 • And Also I have given the Database in the Files submitted.
